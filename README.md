@@ -13,7 +13,7 @@ The goal of this project is to transform raw data into **meaningful insights usi
 [Project Overview](#project-overview)
 [Dataset Information][#dataset-information]
 
-[Tools & Technologies][#tools-&-technologies]
+([Tools & Technologies](#tools-&-technologies))
 
 [Dashboard Features](#dashboard-features)
 [Business Questions](#business-questions)
