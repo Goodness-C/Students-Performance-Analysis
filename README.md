@@ -11,8 +11,10 @@ The goal of this project is to transform raw data into **meaningful insights usi
 ## Table of Contents
 
 [Project Overview](#project-overview)
-[Dataset Information](#dataset-information)
-[Tools & Technologies](#tools-&-technologies)
+[Dataset Information][#dataset-information]
+
+[Tools & Technologies][#tools-&-technologies]
+
 [Dashboard Features](#dashboard-features)
 [Business Questions](#business-questions)
 [Key Insights](#key-insights)
