@@ -8,24 +8,24 @@ The goal of this project is to transform raw data into **meaningful insights usi
 
 ---
 
-## Table of Contents
+##  📈 Table of Contents
 [Project Overview](#-project-overview)
 
  [Dataset Information](#-dataset-information)
 
 [Tools & Technologies](#-tools--technologies)
 
-[Dashboard Features](#dashboard-features)
+[Dashboard Features](#-dashboard-features)
 
-[Business Questions](#business-questions)
+[Business Questions](#-business-questions)
 
-[Key Insights](#key-insights)
+[Key Insights](#-key-insights)
 
-[Dashboard Preview](#dashboard-preview)
+[Dashboard Preview](#-dashboard-preview)
 
-[Conclusion](#conclusion)
+[Conclusion](#-conclusion)
 
-[Future Improvements](#future-improvements)
+[Future Improvements](#-future-improvements)
 
 ---
 
