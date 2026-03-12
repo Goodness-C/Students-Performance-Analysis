@@ -8,10 +8,19 @@ The goal of this project is to transform raw data into **meaningful insights usi
 
 ---
 
+## 📈 Dataset Used
+
+<a href="https://github.com/Goodness-C/Students-Performance-Analysis/blob/main/StudentsPerformance%20.csv.xlsx">Excel Data</a>
+<a href=""></a>
+
+---
+
 ##  📈 Table of Contents
+[Dataset Used](#-dataset-used)
+
 [Project Overview](#-project-overview)
 
- [Dataset Information](#-dataset-information)
+[Dataset Information](#-dataset-information)
 
 [Tools & Technologies](#-tools--technologies)
 
