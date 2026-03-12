@@ -9,6 +9,7 @@ The goal of this project is to transform raw data into **meaningful insights usi
 ---
 
 ## Table of Contents
+[Project Overview](#-project-overview)
 
   [Project Overview](#project-overview)
 
